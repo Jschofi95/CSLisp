@@ -1,0 +1,12 @@
+https://www.tutorialspoint.com/lisp/lisp_operators.htm
+
+1. Add /= Checks if the values of the operands are 
+   all different or not, if values are not equal
+   then condition becomes true.
+   (/= A B) is true.
+
+2. Add "max" It compares two or more arguments 
+   and returns the maximum value.
+
+3. It compares two or more arguments and returns
+   the minimum value.

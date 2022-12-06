@@ -1,0 +1,15 @@
+C:\School\CS403\Lisp\CSLisp\bin\Debug\net6.0\CSLisp.exe
+C:\School\CS403\Lisp\CSLisp\bin\Debug\net6.0\CSLisp.deps.json
+C:\School\CS403\Lisp\CSLisp\bin\Debug\net6.0\CSLisp.runtimeconfig.json
+C:\School\CS403\Lisp\CSLisp\bin\Debug\net6.0\CSLisp.dll
+C:\School\CS403\Lisp\CSLisp\bin\Debug\net6.0\CSLisp.pdb
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.csproj.AssemblyReference.cache
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.AssemblyInfoInputs.cache
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.AssemblyInfo.cs
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.csproj.CoreCompileInputs.cache
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.dll
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\refint\CSLisp.dll
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.pdb
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\CSLisp.genruntimeconfig.cache
+C:\School\CS403\Lisp\CSLisp\obj\Debug\net6.0\ref\CSLisp.dll
